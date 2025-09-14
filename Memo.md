@@ -13,3 +13,8 @@ https://zenn.dev/mtkn1/articles/ubuntu-noble-repository-source
 24.04は、sources.listは卒業（リネーム）
 https://www.reddit.com/r/Ubuntu/comments/1cljldb/cant_update_packages_in_ubuntustudio_2404_weird/?tl=ja
 
+## VS Code起動時にパスワードを求められる件
+毎回、うんざりしてしまう<br>
+
+解決法はこれ↓<br>
+https://obel.hatenablog.jp/entry/20220126/1643137200
