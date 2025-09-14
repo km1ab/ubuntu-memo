@@ -18,3 +18,13 @@ https://www.reddit.com/r/Ubuntu/comments/1cljldb/cant_update_packages_in_ubuntus
 
 解決法はこれ↓<br>
 https://obel.hatenablog.jp/entry/20220126/1643137200
+
+## リポジトリ
+- 本家
+  - https://archive.ubuntu.com/ubuntu/dists/
+  - https://security.ubuntu.com/ubuntu/dists/
+- ミラー（日本）
+  - https://ftp.udx.icscoe.jp/Linux/ubuntu/dists/
+
+
+本家は、なぜセキュリティとアーカイブの方でリポジトリが別れているのかは不明
